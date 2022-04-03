@@ -1,8 +1,9 @@
 # TFRecord_Realistic_USA_RoadSigns
 This is a USA RoadSigns train and valid dataset annotated by TFRecord format.
-It contains 86 classes, and each image size is 512x512.
+It contains 86 classes, and each image size is 512x512.<br>
 
-
+This dataset is created based on <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States</a>.
+<br>
 # Sample Images
 
 <table>

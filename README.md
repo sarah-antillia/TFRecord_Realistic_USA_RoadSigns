@@ -2,7 +2,7 @@
 This is a USA RoadSigns train and valid dataset annotated by TFRecord format.
 It contains 86 classes, and each image size is 512x512.<br>
 <br>
-##86classes label_map.yaml
+## 86classes label_map.yaml
 <pre>
 1: 'Added_lane'
 2: 'Added_lane_from_entering_roadway'
